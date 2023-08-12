@@ -63,3 +63,6 @@ module.exports = router;
 // modify file
 // add route to get comments by post id
 
+// update comment
+
+
