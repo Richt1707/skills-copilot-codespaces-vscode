@@ -60,3 +60,6 @@ router.delete('/:id', (req, res) => {
 
 module.exports = router;
 
+// modify file
+// add route to get comments by post id
+
